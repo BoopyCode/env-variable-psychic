@@ -1,0 +1,15 @@
+{
+  "name": "env-psychic",
+  "version": "1.0.0",
+  "description": "Environment variable debugging tool",
+  "main": "env-psychic.js",
+  "bin": {
+    "env-psychic": "./env-psychic.js"
+  },
+  "scripts": {
+    "start": "node env-psychic.js"
+  },
+  "keywords": ["env", "debug", "environment", "variables"],
+  "author": "",
+  "license": "MIT"
+}
